@@ -59,5 +59,6 @@ mitarbeiterVerwaltung/
   start: "ISOString",
   end: "ISOString"
 }
+
 **Lizenz:**
 MIT License - Siehe LICENSE Datei für Details.
